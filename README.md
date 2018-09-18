@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Mount de Sales Upper School Robotics Team GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MDSRoboticsTeam/MDSRobotics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
